@@ -1,0 +1,174 @@
+body {
+    background-color: #ff4c68;
+}
+
+#navigabar {
+    position: fixed;
+    /* width: 100%; */
+    background-color: #ff4c68;
+    /* padding: 0%; */
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5 rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-link {
+    font-size: 1.2 rem;
+}
+
+.navi-fluid {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5 rem;
+    line-height: 1.5;
+    color: aliceblue;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #E60965;
+}
+
+.pinkish-red-color {
+    color: #E60965;
+    padding-top: 20px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+
+.pink-color {
+    color: #FA4EAB;
+}
+
+p {
+    font-family: "Ubuntu";
+    color: #F94892;
+}
+
+.corgi-location {
+    font-family: "Ubuntu";
+    color: aliceblue;
+    display: inline-block;
+    padding: 5%;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.download-buttons {
+    margin: 5% 3% 5% 0;
+}
+
+.img {
+    padding-top: 5%;
+}
+
+.image-shift {
+    padding-left: 20px;
+    width: 30%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+
+/* .rotate-translate {
+    transform: rotate(15deg);
+} */
+
+#features {
+    background-color: #FBE5E5;
+    padding: 3% 15%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    top: 50px;
+}
+
+.space {
+    padding-bottom: 1%;
+}
+
+#testimonials {
+    background-color: #ff4c68;
+    margin-top: 30px;
+    padding: 3% 15%;
+    text-align: center;
+}
+
+.testimonial-image {
+    border-radius: 50%;
+    width: 45%;
+}
+
+.hottest-corgi {
+    border-radius: 50%;
+    width: 45%;
+}
+
+#press {
+    padding: 3% 10%;
+    background-color: #FBE5E5;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 20%;
+    margin: 20px 20px 50px;
+    /*top,left&right bottom */
+}
+
+#pricing {
+    background-color: #FBE5E5;
+    padding: 0% 15%;
+    text-align: center;
+}
+
+.card {
+    background-color: #FFC0D3;
+}
+
+#cta {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FBE5E5;
+    text-align: center;
+}
+
+.true-love {
+    padding-bottom: 10px;
+}
+
+.dl-btn {
+    margin: 5px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #E60965;
+    padding: 10px;
+}
+
+.coprt {
+    padding-top: 10px;
+    color: #FBE5E5;
+}

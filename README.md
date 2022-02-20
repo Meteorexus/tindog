@@ -1,2 +1,1 @@
-# tindog
-Meteorexo Project 1 
+TinDog Starting Files
