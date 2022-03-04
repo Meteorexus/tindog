@@ -168,7 +168,23 @@ p {
     padding: 10px;
 }
 
+.media-link {
+    padding: 3px;
+}
+
 .coprt {
     padding-top: 10px;
     color: #FBE5E5;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .image-shift {
+        position: static;
+        transform: rotate(0);
+        width: 225px;
+        height: 404px;
+    }
 }
