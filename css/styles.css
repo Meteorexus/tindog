@@ -188,3 +188,18 @@ p {
         height: 404px;
     }
 }
+
+@media (max-width: 412px) {
+    #title {
+        text-align: center;
+    }
+    .image-shift {
+        position: static;
+        transform: rotate(0);
+        width: 225px;
+        height: 404px;
+    }
+    .card {
+        padding-bottom: 5px;
+    }
+}
